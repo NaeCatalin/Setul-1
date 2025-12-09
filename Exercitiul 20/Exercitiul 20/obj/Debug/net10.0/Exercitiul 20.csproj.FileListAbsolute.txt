@@ -1,0 +1,14 @@
+C:\de astea instalate\Visual studio\Exercitiul 20\Exercitiul 20\bin\Debug\net10.0\Exercitiul 20.exe
+C:\de astea instalate\Visual studio\Exercitiul 20\Exercitiul 20\bin\Debug\net10.0\Exercitiul 20.deps.json
+C:\de astea instalate\Visual studio\Exercitiul 20\Exercitiul 20\bin\Debug\net10.0\Exercitiul 20.runtimeconfig.json
+C:\de astea instalate\Visual studio\Exercitiul 20\Exercitiul 20\bin\Debug\net10.0\Exercitiul 20.dll
+C:\de astea instalate\Visual studio\Exercitiul 20\Exercitiul 20\bin\Debug\net10.0\Exercitiul 20.pdb
+C:\de astea instalate\Visual studio\Exercitiul 20\Exercitiul 20\obj\Debug\net10.0\Exercitiul 20.GeneratedMSBuildEditorConfig.editorconfig
+C:\de astea instalate\Visual studio\Exercitiul 20\Exercitiul 20\obj\Debug\net10.0\Exercitiul 20.AssemblyInfoInputs.cache
+C:\de astea instalate\Visual studio\Exercitiul 20\Exercitiul 20\obj\Debug\net10.0\Exercitiul 20.AssemblyInfo.cs
+C:\de astea instalate\Visual studio\Exercitiul 20\Exercitiul 20\obj\Debug\net10.0\Exercitiul 20.csproj.CoreCompileInputs.cache
+C:\de astea instalate\Visual studio\Exercitiul 20\Exercitiul 20\obj\Debug\net10.0\Exercitiul 20.dll
+C:\de astea instalate\Visual studio\Exercitiul 20\Exercitiul 20\obj\Debug\net10.0\refint\Exercitiul 20.dll
+C:\de astea instalate\Visual studio\Exercitiul 20\Exercitiul 20\obj\Debug\net10.0\Exercitiul 20.pdb
+C:\de astea instalate\Visual studio\Exercitiul 20\Exercitiul 20\obj\Debug\net10.0\Exercitiul 20.genruntimeconfig.cache
+C:\de astea instalate\Visual studio\Exercitiul 20\Exercitiul 20\obj\Debug\net10.0\ref\Exercitiul 20.dll
