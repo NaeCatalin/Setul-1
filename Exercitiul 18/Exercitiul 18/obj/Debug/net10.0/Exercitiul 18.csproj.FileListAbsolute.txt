@@ -1,0 +1,14 @@
+C:\de astea instalate\Visual studio\Exercitiul 18\Exercitiul 18\bin\Debug\net10.0\Exercitiul 18.exe
+C:\de astea instalate\Visual studio\Exercitiul 18\Exercitiul 18\bin\Debug\net10.0\Exercitiul 18.deps.json
+C:\de astea instalate\Visual studio\Exercitiul 18\Exercitiul 18\bin\Debug\net10.0\Exercitiul 18.runtimeconfig.json
+C:\de astea instalate\Visual studio\Exercitiul 18\Exercitiul 18\bin\Debug\net10.0\Exercitiul 18.dll
+C:\de astea instalate\Visual studio\Exercitiul 18\Exercitiul 18\bin\Debug\net10.0\Exercitiul 18.pdb
+C:\de astea instalate\Visual studio\Exercitiul 18\Exercitiul 18\obj\Debug\net10.0\Exercitiul 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\de astea instalate\Visual studio\Exercitiul 18\Exercitiul 18\obj\Debug\net10.0\Exercitiul 18.AssemblyInfoInputs.cache
+C:\de astea instalate\Visual studio\Exercitiul 18\Exercitiul 18\obj\Debug\net10.0\Exercitiul 18.AssemblyInfo.cs
+C:\de astea instalate\Visual studio\Exercitiul 18\Exercitiul 18\obj\Debug\net10.0\Exercitiul 18.csproj.CoreCompileInputs.cache
+C:\de astea instalate\Visual studio\Exercitiul 18\Exercitiul 18\obj\Debug\net10.0\Exercitiul 18.dll
+C:\de astea instalate\Visual studio\Exercitiul 18\Exercitiul 18\obj\Debug\net10.0\refint\Exercitiul 18.dll
+C:\de astea instalate\Visual studio\Exercitiul 18\Exercitiul 18\obj\Debug\net10.0\Exercitiul 18.pdb
+C:\de astea instalate\Visual studio\Exercitiul 18\Exercitiul 18\obj\Debug\net10.0\Exercitiul 18.genruntimeconfig.cache
+C:\de astea instalate\Visual studio\Exercitiul 18\Exercitiul 18\obj\Debug\net10.0\ref\Exercitiul 18.dll
