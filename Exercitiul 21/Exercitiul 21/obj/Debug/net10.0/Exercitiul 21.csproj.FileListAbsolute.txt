@@ -1,0 +1,14 @@
+C:\de astea instalate\Visual studio\Exercitiul 21\Exercitiul 21\bin\Debug\net10.0\Exercitiul 21.exe
+C:\de astea instalate\Visual studio\Exercitiul 21\Exercitiul 21\bin\Debug\net10.0\Exercitiul 21.deps.json
+C:\de astea instalate\Visual studio\Exercitiul 21\Exercitiul 21\bin\Debug\net10.0\Exercitiul 21.runtimeconfig.json
+C:\de astea instalate\Visual studio\Exercitiul 21\Exercitiul 21\bin\Debug\net10.0\Exercitiul 21.dll
+C:\de astea instalate\Visual studio\Exercitiul 21\Exercitiul 21\bin\Debug\net10.0\Exercitiul 21.pdb
+C:\de astea instalate\Visual studio\Exercitiul 21\Exercitiul 21\obj\Debug\net10.0\Exercitiul 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\de astea instalate\Visual studio\Exercitiul 21\Exercitiul 21\obj\Debug\net10.0\Exercitiul 21.AssemblyInfoInputs.cache
+C:\de astea instalate\Visual studio\Exercitiul 21\Exercitiul 21\obj\Debug\net10.0\Exercitiul 21.AssemblyInfo.cs
+C:\de astea instalate\Visual studio\Exercitiul 21\Exercitiul 21\obj\Debug\net10.0\Exercitiul 21.csproj.CoreCompileInputs.cache
+C:\de astea instalate\Visual studio\Exercitiul 21\Exercitiul 21\obj\Debug\net10.0\Exercitiul 21.dll
+C:\de astea instalate\Visual studio\Exercitiul 21\Exercitiul 21\obj\Debug\net10.0\refint\Exercitiul 21.dll
+C:\de astea instalate\Visual studio\Exercitiul 21\Exercitiul 21\obj\Debug\net10.0\Exercitiul 21.pdb
+C:\de astea instalate\Visual studio\Exercitiul 21\Exercitiul 21\obj\Debug\net10.0\Exercitiul 21.genruntimeconfig.cache
+C:\de astea instalate\Visual studio\Exercitiul 21\Exercitiul 21\obj\Debug\net10.0\ref\Exercitiul 21.dll
